@@ -1,0 +1,12 @@
+.color{
+    padding: 7px 15px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+}
+.new{
+    padding: 7px 15px;
+    background: origin 10px;
+    background-color: rgb(21, 214, 248);
+    color: white;
+}
